@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projeto Desenvolvimento v_Systems
 Projeto da criação da pagina de v_SystemsTechnology
 
