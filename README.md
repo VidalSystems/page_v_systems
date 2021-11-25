@@ -5,9 +5,9 @@ Projeto da criação da pagina de v_SystemsTechnology
 # Ferramentas Usadas no Desenvolvimento
 
 ## Links Úteis
-[Ferramentas Báscias](https://spring.io/projects/spring-boot)
-		  (https://pt-br.reactjs.org/)
-		  (https://www.postgresql.org/)
+[Framework SpringBoot](https://spring.io/projects/spring-boot)
+[Biblioteca React](https://pt-br.reactjs.org/)
+[SGBD](https://www.postgresql.org/)
 
 
 =======
