@@ -10,5 +10,5 @@ Projeto da criação da pagina de v_SystemsTechnology
 
 
 # page_v_systems
-Repositório criado para desenvolver o rojeto da criação da pagina de v_SystemsTechnology
+Repositório criado para desenvolver o projeto da criação da pagina de v_SystemsTechnology
 
